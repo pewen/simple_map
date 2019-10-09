@@ -7,7 +7,7 @@ Herramienta que crea un mapa html (con folium/leaflet) desde un csv
 
 ## uso
 
-``` python
+```
 usage: simple_map.py [-h] --lat LAT --log LOG --zoom ZOOM --input INPUT --out
                      OUT
 
